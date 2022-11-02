@@ -1,0 +1,1 @@
+This is just a learning exercise about how to use github with Visual Studio Code.
