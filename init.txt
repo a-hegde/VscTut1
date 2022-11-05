@@ -1,1 +1,5 @@
 This is just a learning exercise about how to use github with Visual Studio Code.
+
+The second line of the init file
+
+The third line of the init file
