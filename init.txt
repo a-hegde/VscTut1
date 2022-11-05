@@ -3,3 +3,6 @@ This is just a learning exercise about how to use github with Visual Studio Code
 One more line, the second one of the first one
 
 Yet another line, this time the third one.
+The second line of the init file
+
+The third line of the init file
